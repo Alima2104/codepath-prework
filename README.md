@@ -4,7 +4,7 @@ App Description
 This app is designed for students to introduce themselves by providing their first name, last name, school name, year they are in, how many pets they have, and whether or not they want more pets. Clear interface is easy to use and navigate.
 
 App Walk-though
-TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
+![Alt Text](https://thumbs.gfycat.com/ScornfulEminentHapuku-size_restricted.gif)
 
 
 Required Features
